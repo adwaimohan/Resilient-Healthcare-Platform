@@ -1,2 +1,1 @@
-# hackocalypse
-hackathon status 
+
